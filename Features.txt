@@ -1,0 +1,13 @@
+T-Snake 2 Features:
+
+- Smooth animations
+- Non grid movement
+- Better graphics
+- 99% less CPU usage
+- Optimized animation code (Thanks Richie)
+- Top Scores
+- New map file format
+- Maps load faster
+- Improved map editor
+- And a lot more
+- Multiplayer?
